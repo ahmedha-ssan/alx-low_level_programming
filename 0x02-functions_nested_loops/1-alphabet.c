@@ -1,9 +1,9 @@
-/*
- * File: 1-alphabet.c
+/**
+ * File: ONE-alphabet.c
  * Auther: Ahmed Hassan
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_alphabet - prints the alphabet in lowercase, followed by a new line.
