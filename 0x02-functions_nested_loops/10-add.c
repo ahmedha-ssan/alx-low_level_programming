@@ -1,4 +1,4 @@
-#include "min.h"
+#include "main.h"
 
 /**
  * Return: The result of the addition.
