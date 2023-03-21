@@ -1,11 +1,12 @@
 #include "main.h"
 /**
- * main - print _putchar
+ * main - Print _putchar
  * author AhmedHassan
- * return 0
+ * Return: Always o
  */
 int main(void)
 {
+
 _putchar('_');
 _putchar('p');
 _putchar('u');
